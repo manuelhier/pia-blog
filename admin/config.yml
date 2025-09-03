@@ -2,7 +2,7 @@ backend:
   name: github
   repo: manuelhier/pia-blog
   branch: main
-  base_url: pia-blog-cms-auth.dev-bc7.workers.dev
+  base_url: https://pia-blog-cms-auth.dev-bc7.workers.dev
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'

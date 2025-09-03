@@ -22,7 +22,8 @@ title: Pia auf den Philippinen
 email: piaaufreise@gmx.default
 description: >- # this means to ignore newlines until "baseurl:"
   Pia teilt Impressionen aus ihrem internationalen Freiwilligendienst "Christ for Asia" auf den Philippinen.
-baseurl: "/pia-blog" # the subpath of your site, e.g. /blog
+# baseurl: "/pia-blog" # the subpath of your site, e.g. /blog
+
 url: "https://manuelhier.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
 #github_username:  

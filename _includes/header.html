@@ -15,7 +15,8 @@
             </label>
 
             <div class="trigger">
-                {%- for item in site.data.settings.navigation -%}
+                {%- assign nav_pages = site.pages | where_exp: "p", "p.nav != false" -%}
+                {%- for item in nav_pages -%}
                 <a class="page-link" href="{{ item.url | relative_url }}">
                     {{ item.title | escape }}
                 </a>

@@ -1,7 +1,0 @@
-navigation:
-  - title: "Blog"
-    url: "/blog/"
-  - title: "Galerie"
-    url: "/gallery/"
-  - title: "Über mich"
-    url: "/about/"

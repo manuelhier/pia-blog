@@ -8,42 +8,42 @@ media_folder: 'assets/uploads'
 
 collections:
   - name: 'Posts'
-    label: 'Posts'
+    label: 'posts'
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post'}
+      - { label: 'Titel', name: 'title', widget: 'string', collapsed: true}
+      - { label: 'Datum', name: 'date', widget: 'datetime' }
+      - { label: 'Kategorien', name: 'categories', widget: 'list', collapsed: true, required: false}
+      - { label: 'Tags', name: 'tags', widget: 'list', collapsed: true, required: false}
+      - { label: 'Cover', name: 'cover', widget: 'image', collapsed: true, required: false}
+      - { label: 'Beschreibung', name: 'description', widget: 'string', collapsed: true, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'settings'
-    label: 'Einstellungen'
-    editor:
-      preview: true
-    files:
-      - label: 'Startseite'
-        name: 'index'
-        file: 'index.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
-          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
-          - { label: 'Inhalt', name: 'body', widget: 'markdown' }
-      - label: 'Über mich'
-        name: 'about'
-        file: 'about.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
-          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
-          - { label: 'Inhalt', name: 'body', widget: 'markdown' }
-      - label: 'Config'
-        name: 'config'
-        file: '_config.yml'
-        editor:
-          preview: false
-        fields:
-          - { label: 'Titel', name: 'title', widget: 'text', default: 'about' }
-          - { label: 'E-Mail', name: 'email', widget: 'text', default: 'about' }
-          - { label: 'Beschreibung', name: 'description', widget: 'text' }
+  # - name: "pages"
+  #   label: "Seiten"
+  #   folder: "_pages"
+  #   create: true
+  #   slug: "{{slug}}"
+  #   fields:
+  #     - { label: "Titel", name: "title", widget: "string", required: false}
+  #     # - { label: "Permalink", name: "permalink", widget: "string", required: false, hint: "z.B. /ueber-mich/" }
+  #     - { label: "Inhalt", name: "body", widget: "markdown" }
+  # - settings:
+  #   label: 'Einstellungen'
+  #   folder: '_data/'
+  #   create: false
+  #   editor:
+  #     preview: false
+  #   files: 
+  #     - label: 'Config'
+  #       name: 'config'
+  #       file: 'settings.yml'
+  #       fields:
+  #         # - { label: 'Titel', name: 'title', widget: 'text', default: 'about' }
+  #         # - { label: 'E-Mail', name: 'email', widget: 'text', default: 'about' }
+  #         # - { label: 'Navigation', name: 'description', widget: 'list' }
+

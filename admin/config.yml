@@ -3,29 +3,47 @@ backend:
   repo: manuelhier/pia-blog
   branch: main
   base_url: https://pia-blog-cms-auth.dev-bc7.workers.dev
+
 media_folder: 'assets/uploads'
+
 collections:
-  - name: 'blog'
-    label: 'Blog'
+  - name: 'Posts'
+    label: 'Posts'
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'pages'
-    label: 'Pages'
+  - name: 'settings'
+    label: 'Einstellungen'
     editor:
-      preview: false
+      preview: true
     files:
-      - label: 'About Page'
+      - label: 'Startseite'
+        name: 'index'
+        file: 'index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
+          - { label: 'Inhalt', name: 'body', widget: 'markdown' }
+      - label: 'Über mich'
         name: 'about'
         file: 'about.md'
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Inhalt', name: 'body', widget: 'markdown' }
+      - label: 'Config'
+        name: 'config'
+        file: '_config.yml'
+        editor:
+          preview: false
+        fields:
+          - { label: 'Titel', name: 'title', widget: 'text', default: 'about' }
+          - { label: 'E-Mail', name: 'email', widget: 'text', default: 'about' }
+          - { label: 'Beschreibung', name: 'description', widget: 'text' }

@@ -11,13 +11,13 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 # Site settings
-title: Pia auf den Philippinen
-email: piaaufreise@gmx.de
+title: pia-in-cebu.de
+email: piasreise@gmx.de
+instagram: pia.rtt
 description: >-
-  Pia teilt Impressionen aus ihrem internationalen Freiwilligendienst "Christ for Asia" auf den Philippinen.
+  Hi, ich bin Pia. Für 11 Monate lebe ich auf den Philippinen und engagiere mich im IJFD bei Christ for Asia. Folge mir auf meiner Reise!
 baseurl: ""                     # the subpath of your site, e.g. /blog
 url: "https://pia-in-cebu.de"   # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: pia
 lang: de
 
 # Build settings

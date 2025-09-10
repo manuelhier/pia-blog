@@ -1,28 +1,34 @@
 <footer class="site-footer h-card">
-    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+    <data class="u-url" href="{{ " /" | relative_url }}"></data>
 
     <div class="wrapper">
 
-        <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                <h2 class="footer-heading">{{ site.title | escape }}</h2>
+            </div>
+            <div class="footer-col footer-col-2">
+                <!-- Empty -->
+            </div>
+            <div class="footer-col footer-col-3">
+                {%- include newsletter.html -%}
+            </div>
+        </div>
 
         <div class="footer-col-wrapper">
             <div class="footer-col footer-col-1">
                 <ul class="contact-list">
-                    <li class="p-name">
-                        {%- if site.author -%}
-                        {{ site.author | escape }}
-                        {%- else -%}
-                        {{ site.title | escape }}
-                        {%- endif -%}
-                    </li>
-                    {%- if site.email -%}
-                    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-                    {%- endif -%}
+                    <!-- <li class="p-name"> {{ site.title | escape }} </li> -->
+                    <li>Organisation: <a href="https://christforasia.info">christforasia.info</a></li>
+                    <li>E-Mail: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                    <li>Instagram (privat): <a
+                            href="https://instagram.com/{{ site.instagram | cgi_escape | escape }}">{{ site.instagram |
+                            escape }}</a></li>
                 </ul>
             </div>
 
             <div class="footer-col footer-col-2">
-                {%- include social.html -%}
+                <!-- {%- include social.html -%} -->
             </div>
 
             <div class="footer-col footer-col-3">

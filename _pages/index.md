@@ -2,8 +2,8 @@
 title: Willkommen auf meinem Blog
 layout: home
 permalink: /
-list_heading: Aktuelle Beiträge
 nav: false
+heading: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.  

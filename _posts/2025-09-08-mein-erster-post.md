@@ -1,14 +1,18 @@
 ---
 layout: post
-title: "Mein erster Blogpost"
-date: 2025-09-08 10:00:00 +0200
+title: Mein erster Blogpost
+date: 2025-10-03T15:14:00
+categories:
+  - reise
+  - erfahrungen
+tags:
+  - cebu
+  - alltag
+  - kultur
+cover: ''
+description: Kurzer Teasertext, der auch für SEO und in der Post-Übersicht genutzt wird.
 author: Pia
-description: "Kurzer Teasertext, der auch für SEO und in der Post-Übersicht genutzt wird."
-cover: /assets/posts/mein-erster-post/cover.jpg
-categories: [reise, erfahrungen]
-tags: [cebu, alltag, kultur]
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
 Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.  
 
@@ -17,7 +21,7 @@ Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
 Curabitur blandit tempus porttitor.  
 Maecenas faucibus mollis interdum.  
 
-![Beispielbild](/assets/posts/mein-erster-post/foto1.jpg)
+![Beispielbild](/assets/uploads/IMG_4930.jpeg)
 
 ### Stichpunkte
 
@@ -27,4 +31,4 @@ Maecenas faucibus mollis interdum.
 
 ---
 
-*Hinweis: Dieser Beitrag ist ein Platzhalter. Er kann Bilder, Listen, Zitate und Code enthalten.*
+_Hinweis: Dieser Beitrag is_

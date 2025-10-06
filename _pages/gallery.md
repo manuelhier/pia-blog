@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Galarie
-published: true
+published: false
 ---
 
 Einblicke in verschiedene Momente und Orte – festgehalten in Fotoserien.

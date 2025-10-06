@@ -4,6 +4,7 @@ layout: home
 permalink: /
 nav: false
 heading: false
+published: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.  

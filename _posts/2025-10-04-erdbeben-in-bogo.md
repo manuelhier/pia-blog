@@ -2,8 +2,7 @@
 layout: post
 title: Erdbeben in Bogo
 date: 2025-10-04T15:18:00
-categories:
-  - ''
+categories: []
 tags:
   - Erdbeben
   - Hilfsgüter

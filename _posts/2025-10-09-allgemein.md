@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Informationen
+title: Allgemeine Informationen
 date: 2025-10-09T21:00:00
 categories: []
 tags:

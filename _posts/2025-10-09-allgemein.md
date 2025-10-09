@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Allgemein
+title: zur Organisation
 date: 2025-10-09T21:00:00
 categories: []
 tags:

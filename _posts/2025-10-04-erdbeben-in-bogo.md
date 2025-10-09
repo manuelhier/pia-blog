@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Erdbeben in Bogo
-date: 2025-10-04T15:18:00
+date: 2025-10-04
 categories: []
 tags:
   - Erdbeben

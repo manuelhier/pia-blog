@@ -17,7 +17,7 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post'}
       - { label: 'Titel', name: 'title', widget: 'string', collapsed: true}
-      - { label: 'Datum', name: 'date', widget: 'datetime' }
+      - { label: 'Datum', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Kategorien', name: 'categories', widget: 'list', collapsed: true, required: false}
       - { label: 'Tags', name: 'tags', widget: 'list', collapsed: true, required: false}
       - { label: 'Cover', name: 'cover', widget: 'image', collapsed: true, required: false}

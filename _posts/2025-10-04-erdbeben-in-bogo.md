@@ -3,11 +3,11 @@ layout: post
 title: Erdbeben in Bogo
 date: 2025-10-04T15:18:00
 categories:
+  - ''
+tags:
   - Erdbeben
   - Hilfsgüter
   - Spenden
-tags:
-  - https://www.instagram.com/p/DPTVk5kDTGF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 cover: /assets/uploads/9168D415-2D53-454B-A25C-4282BB3F210B.jpeg
 description: Am 30.September 2025 um 22:59 Uhr wurde die Insel Cebu von einem Erdbeben der Stärke 6.7 erschüttert. Seit dem gab es zahlreiche  (mehere tausend) Nachbeben, die vor allem im Norden Cebus gr0ße Schäden angerichen haben.
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Allgemeine Informationen
-date: 2025-10-09T21:00:00
+title: Informationen
+date: 2025-10-09T16:17:00
 categories: []
 tags:
   - 'Unser Instagram: live.laugh.lubi'

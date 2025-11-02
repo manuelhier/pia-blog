@@ -1,6 +1,6 @@
 ---
 layout: post
-title: die ersten Monate
+title: Die ersten Monate
 date: 2025-11-02
 categories:
   - Aufgaben als Freiwillige

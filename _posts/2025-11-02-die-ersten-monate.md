@@ -28,4 +28,4 @@ Seit dem 29.September, als das große Erdbeben war, gab es viele Tausende Nachbe
 
 ![Lagerfeuer am 04.10.](/assets/uploads/FA106F7A-FAAD-43C0-88A1-9431B352BB53_1_105_c.jpeg)
 
-![](/assets/uploads/323565BF-2DE8-4A5F-BFE5-D310768A6827_1_105_c.jpeg)![](/assets/uploads/8564864D-6C0A-42D2-846C-04B4B43F5E5D_1_105_c.jpeg)
+![](/assets/uploads/323565BF-2DE8-4A5F-BFE5-D310768A6827_1_105_c.jpeg)![](/assets/uploads/BE5431D0-1699-47B5-B3DC-F85A312C5CEE_1_105_c.jpeg)![](/assets/uploads/2F8F7772-221B-452D-B3E0-8B0005F9697D_1_105_c.jpeg)

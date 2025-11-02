@@ -18,7 +18,7 @@ Wir hatten vor unserer Einreise zwei Vorbereitungsseminare, die von netzwerk-m o
 
 Christ for Asia wurde von Harald und Regina Rauch gegründet. Harald und Regina sind als Missionare auf die Philippinen gesendet worden und haben vor Ort das Leiden vieler Straßenkinder erlebt. Daraufhin haben sie Christ for Asia ins Leben gerufen. Sie haben ein Kinderheim gebaut, indem ehemalige Straßenkinder ein Zuhause finden können. Jahre später wurde eine Schule eröffnet, um die Bildung der Kinder zu stärken. Desweiteren gibt es jede Woche „Feedings“ in den Slumgebieten, bei denen Kinder von Jesus erfahren, Gemeinschaft erleben und eine warme Mahlzeit bekommen. 
 
-Es gibt noch zahlreiche weitere Projekte von CfA. Wenn du interessiert bist, dann schaue doch gerne auf der Internetseite vorbei: www.christforasia.info.
+Es gibt noch zahlreiche weitere Projekte von CfA. Wenn du interessiert bist, dann schaue doch gerne auf der Internetseite vorbei:[ www.christforasia.info.](www.christforasia.info.)
 
 ![](/assets/uploads/DD1A9E4F-E6E9-41E5-8C9D-6ACDD54DB6FB_1_105_c.jpeg)
 

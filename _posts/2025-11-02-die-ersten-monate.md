@@ -3,7 +3,6 @@ layout: post
 title: Die ersten Monate
 date: 2025-11-02
 categories:
-  - Aufgaben als Freiwillige
 tags: []
 cover: /assets/uploads/B3064BC8-7807-4E85-BB3F-D19A6FDD71CE_1_105_c.jpeg
 description: ''

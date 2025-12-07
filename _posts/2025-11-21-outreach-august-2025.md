@@ -7,13 +7,13 @@ tags: []
 cover: /assets/uploads/02C13349-EBF3-437C-A7F4-D7A315B01269.jpeg
 description: ''
 ---
-In der zweiten Woche hier auf den Philippinen sind wir mit einem Team aus Deutschland und Mitarbeitern von CfA auf einen Outreach gefahren.Das war sehr aufregend, vor allem weil für uns alles noch sehr neu war.
+In der **zweiten** Woche hier auf den Philippinen sind wir mit einem Team aus Deutschland und Mitarbeitern von CfA auf einen Outreach gefahren.Das war sehr aufregend, vor allem weil für uns alles noch sehr neu war.
 
 Unser erster Stopp war Bantayan, eine Insel auf den Philippinen, die wir mit der Fähre erreicht haben. Wir durften dort in einer Kirche in einem Dorf übernachten.
 
 Wir wurden so herzlich aufgenommen, haben bis heute Kontakt zu der Familie des Pastors und haben uns schon öfters mit ihnen getroffen.
 
-Geschlafen haben wir dort auf echt dünnen Spielmatten. Wir hatten alle Angst, dass wir die ganze Woche schlecht schlafen und Rückenschmerzen bekommen. Aber erstaunlicherweise haben wir recht gut geschlafen. Die erste Nacht war es sehr kalt, weil wir die Klimaanlage und alle Ventilatoren an hatten. Als Decke haben wir notdürftig Handtücher oder Hängematten benutzt XD
+Geschlafen haben wir dort auf echt dünnen Spielmatten. Wir hatten alle Angst, dass wir die ganze Woche schlecht schlafen und Rückenschmerzen bekommen. Aber erstaunlicherweise haben wir recht gut geschlafen. Die erste Nacht war es sehr kalt, weil wir die Klimaanlage und alle Ventilatoren an hatten. Als Decke haben wir notdürftig Handtücher oder Hängematten benutzt **XD**. 
 
 Ate Elli, eine Mitarbeiterin von CfA, ist mitbekommen und hat jeden Morgen, Mittag und Abend für uns gekocht. Alle Filipinos und Filipinas, die mit auf dem Outreach waren sind immer um 5 Uhr morgen aufgestanden, um Frühstück vorzubereiten.
 
@@ -23,17 +23,17 @@ Trotzdem war das Essen auch eine He
 
 rausforderung. Zum Frühstück gab es oft Reis mit Würstchen oder Schinken. Manchmal gab es auch Reis mit Spiegelei, das war sehr lecker (Wir machen uns dass manchmal immer noch zum Frühstück).
 
-![](/assets/uploads/748154FB-8AD6-46DC-AC85-78EBED30084E.JPG)
-
-Auf den Philippinen wird sehr viel Fleisch gegessen, vor allem wenn man es sich leisten kann. Daher gab es während dem Outreach viel Fleisch (zu jeder Mahlzeit) zu essen und natürlich immer Reis dazu.
+**_Auf den Philippinen wird sehr viel Fleisch gegessen, vor allem wenn man es sich leisten kann. Daher gab es während dem Outreach viel Fleisch (zu jeder Mahlzeit) zu essen und natürlich immer Reis dazu._**
 
 Obwohl ich eigentlich vegetarisch bin, habe ich oft das Fleisch mitgegessen, vor allem aus Höflichkeitsgründen.
 
-Uns wurde auch erzählt, dass oftmals viele auf dem Outreach krank werden, weil die Hygiene in den Gebieten nicht gut sei. Ich bin Gott echt dankbar, dass niemand von uns krank geworden ist und wir alle voller Energie waren.
+Uns wurde auch erzählt, dass oftmals viele auf dem Outreach krank werden, weil die Hygiene in den Gebieten nicht gut sei.  
+
+**Ich bin Gott** echt **dankbar**, dass niemand von uns krank geworden ist und wir alle voller Energie waren.
 
 Geduscht haben wir mit einer Schöpfkelle und einer riesigen Regentonne, die mit Wasser gefüllt war.
 
-Wir hatten viel Programm in dieser Woche: Zum einen haben wir Hausbesuche gemacht und von Jesus erzählt. Außerdem sind wir auch in mehreren Schulen gefahren und haben dort mit den Schülern ein Programm gestaltet.
+**Wir hatten viel Programm in dieser Woche**: Zum einen haben wir** Hausbesuche** gemacht und von Jesus erzählt. Außerdem sind wir auch in mehreren **Schulen **gefahren und haben dort mit den Schülern ein Programm gestaltet.
 
 Die Kinder und Lehrer waren alle sehr aufgeregt und haben sich total gefreut, dass wir das Programm gemacht haben. Die Kinder haben uns wie Prominente behandelt, wollten Selfies und teilweise auch Autogramme von uns. Ich kann mich noch an eine Situation erinnern, als wir in den einen Schulhof gefahren sind und alle Kinder schreiend zu uns gerannt sind.![](/assets/uploads/11631BDD-CF31-4C11-9A47-F9EF0A71597D.JPG)
 
@@ -43,7 +43,7 @@ Die Schulen, die wir besucht haben lagen alle sehr ländlich. Viele der Kinder b
 
 Was uns hier schon öfters aufgefallen ist, dass viele Menschen dich versuchen „heimlich“ zu filmen oder von dir Fotos machen.
 
-Das Schönheitsideal auf den Philippinen ist das Gegensätzlich zum europäischen Schönheitsideal. Während wir in Europa versuchen so braun wie möglich zu werden, kaufen sich die Menschen hier auf den Philippinen Creme mit Bleichwirkung.
+**_Das Schönheitsideal auf den Philippinen ist das Gegensätzlich zum europäischen Schönheitsideal. Während wir in Europa versuchen so braun wie möglich zu werden, kaufen sich die Menschen hier auf den Philippinen Creme mit Bleichwirkung._**
 
 Die Besuche in den Schulen waren sehr intensiv, aber auch so schön. Wir haben in kleinen Gruppen Spiele gespielt und in den Klassen Zeugnisse über unseren Glauben gegeben.
 
@@ -69,7 +69,7 @@ In Maya wurden wir sehr verwöhnt. Die Pastorin hat uns abends Shrimps, Kartoffe
 
 In Maya haben wir einerseits praktische Arbeit geleistet und den Absflusskanal sauber gemacht und sind nachmittags zu einem Feeding gefahren. Dort haben wir wie immer Programm mit den Kindern gemacht und mit ihnen gespielt. Wir haben Lieder gesungen, Tänze getanzt und haben versucht mit den Kindern Gespräche anzufangen, was durch die Gesprächsbarriiere oftmals ziemlich schwierig ist.
 
-Wir haben nach dem Outreach herausgefunden, dass das eine Mädchen von dem Feeding eine Darmkrankheit hatte und ein Tag nach dem Feeding gestorben ist. Das war sehr krass. Anscheinend kannten man das Mädchen vor Ort nicht sehr gut und sie war bei vorherigen Feedings nicht dabei. Bei diesem Feeding war sie aber sehr motiviert dabei und man konnte ihre Freude ansehen. Ein Tag bevor sie zu Jesus gekommen ist durfte sie von ihm erfahren <3
+Wir haben nach dem Outreach herausgefunden, dass das eine Mädchen von dem Feeding eine Darmkrankheit hatte und ein Tag nach dem Feeding gestorben ist. Das war sehr krass. Anscheinend kannten man das Mädchen vor Ort nicht sehr gut und sie war bei vorherigen Feedings nicht dabei. Bei diesem Feeding war sie aber sehr motiviert dabei und man konnte ihre Freude ansehen. _Ein Tag bevor sie zu Jesus gekommen ist durfte sie von ihm erfahren <3_
 
 Am Samstag Abend haben wir draußen gegessen und es hat komplett angefangen zu schütten. Wir wurden alle pitschnass, aber es war sehr lustig und hat sehr Spaß gemacht.
 
@@ -81,11 +81,11 @@ Nach dem Gottesdienst sind wir zurück nach Bogo gefahren und waren noch mit der
 
 Highlight des Tages war, dass einen Zwischenstopp an einem See mit türkisblauem Wasser gemacht haben.  Dort haben wir den nachmittag verbracht und sind schwimmen gegangen. Das war richtig schön und besonders.
 
- Wir sind erst spät abends in Christ for Asia angekommen und waren alle ziemlich erschöpft.
+ Wir sind erst spät abends in **Christ for Asia** angekommen und waren alle ziemlich erschöpft.
 
 Ich bin mir sicher, dass Gott uns in dieser Woche so viel Kraft gegeben hat. Obwohl wir so viel unterwegs waren und auf hartem Boden geschlafen haben, haben wir die Woche ohne Krankheit durchgezogen. Und es hat super Spaß gemacht.  Es war eine gesegnete Zeit!
 
-Ich bin so dankbar so viele liebe Menschen kennengelernt zu haben, die die Zeit nochmal besonderer gemacht haben. Vor allem auch die Freude in den Augen der Kinder zu sehen ist unbeschreibar. Der Outreach war bis heute die erlebnisreichste und schönste Woche die ich bis jetzt auf den Philippinen erleben durfte und das muss was heißen!
+Ich bin so dankbar so viele liebe Menschen kennengelernt zu haben, die die Zeit nochmal besonderer gemacht haben. Vor allem auch die Freude in den Augen der Kinder zu sehen ist unbeschreibar. Der Outreach war bis heute die **erlebnisreichste **und **schönste **Woche die ich bis jetzt auf den Philippinen erleben durfte und das muss was heißen!
 
 ![](/assets/uploads/03D6589E-AD3F-41EE-B886-633E51AABABA.jpeg)
 

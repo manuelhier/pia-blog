@@ -51,4 +51,4 @@ _- , dass die betroffenen Familien Hoffnung bekommen und an Jesus festhalten und
 
 _- , dass wir vor Naturkatastrophen bewahrt bleiben._
 
-_- im Allgemeinen für die Zukunft der Heimkinder, dass sie ihre Vergangenheit gut aufarbeiten und verarbeiten können._
+_- im Allgemeinen für die Zukunft der Heimkinder, dass sie ihre Vergangenheit gut aufarbeiten und verarbeiten können._![](/assets/uploads/6419EBC0-EA28-4023-ACCE-50C37D075A76.jpeg)![](/assets/uploads/DA9F6FF6-3645-4F13-8F2C-CEBF0B49F6CC.jpeg)![](/assets/uploads/A2EEFEBE-7D05-4A84-9E83-C3482C4AD775.jpeg)

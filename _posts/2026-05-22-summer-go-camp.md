@@ -4,7 +4,7 @@ title: Summer Go Camp
 date: 2026-05-22
 categories: []
 tags: []
-cover: /assets/uploads/8D8A9B11-F2A8-466D-9BF9-F706B75AC177_1_105_c.jpeg
+cover: /assets/uploads/C721248B-8FC9-4C79-8E43-16F39782B429_1_105_c.jpeg
 description: ''
 ---
 

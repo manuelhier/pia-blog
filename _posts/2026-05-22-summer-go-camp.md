@@ -18,9 +18,11 @@ Die Geschichte von Caleb und Josua hat mir gezeigt, dass wir in jeder Herausford
 
 Nachmittags sind einige Mitarbeiter und älteren Teilnehmer in die Armenviertel Cebu Citys gefahren und haben DVBS-Programm (daily-vacation-bible-school) mit den Kindern vor Ort gemacht. Das lief sehr ähnlich zu den wöchentlichen Feedingprogramme (habe ich im Beitrag „die ersten Monate“ erklärt) ab. Zuerst gab es ein paar Kindertänze von Jana Alayra und ein Worship Lied. Danach gab es jeden Tag eine Andacht mit einer passenden Aktivität (z.B: Bilder zum Ausmalen).
 
-Ein Nachmittag haben Juliane und ich mit den einigen Teilnehmerkinder eine Wand auf dem Gelände von Christ for Asia bemalt (siehe Foto).  Obwohl die Motivation zum Ende hin stark abgenommen hat und wir zum Schluss nur noch zu dritt gemalt haben bin ich sehr beeindruckt, von dem bisherigen Ergebnis (sind nicht fertig geworden, werden wir hoffentlich nächste Woche mit den Heimkindern fertig malen). Es hat auch super spaß gemacht!![](/assets/uploads/778647B5-505C-4F3E-B2B8-BF6BF8FB63BB.jpeg)![](/assets/uploads/4D7D0976-F33F-4B0C-8C6D-F9DC203D368E.jpeg)
+Ein Nachmittag haben Juliane und ich mit den einigen Teilnehmerkinder eine Wand auf dem Gelände von Christ for Asia bemalt (siehe Foto).  Obwohl die Motivation zum Ende hin stark abgenommen hat und wir zum Schluss nur noch zu dritt gemalt haben bin ich sehr beeindruckt, von dem bisherigen Ergebnis (sind nicht fertig geworden, werden wir hoffentlich nächste Woche mit den Heimkindern fertig malen). Es hat auch super spaß gemacht!![](/assets/uploads/3B82342D-750F-44B1-A1D7-F79C57B57B8C_1_105_c.jpeg)![](/assets/uploads/1049FA03-D6B2-4CCD-93CE-9D62BA462D2C_1_105_c.jpeg)
 
-![](/assets/uploads/3B82342D-750F-44B1-A1D7-F79C57B57B8C_1_105_c.jpeg)![](/assets/uploads/4A3C99A5-60C4-4A0B-A77A-87551D627FEB_1_105_c.jpeg)
+![](/assets/uploads/4A3C99A5-60C4-4A0B-A77A-87551D627FEB_1_105_c.jpeg)
+
+![](/assets/uploads/871AF4D7-6ABA-4710-91AD-FD376A501B8C_1_105_c.jpeg)
 
 Sehr prägend war auch der tägliche Lobpreis. Man merkt sehr stark, dass die Philippinen eine tanzgeprägte Kultur ist. Es ist so schön zu sehen, wie jeder anders Gott preist und wie lebendig der Worship ist. Manche haben zusammen getanzt, andere haben alleine Gott angepriesen, wieder andere haben für einander gebetet. Auch die Mischung aus ruhigem und lautem Worship war super.
 
@@ -42,7 +44,7 @@ Am nächsten Tag sind alle Campteilnehmer los nach Lapu-Lapu in ein Strandresort
 
 Danach hatten wir einen sehr schönen Tag am Strand, sind von Klippen ins Meer gesprungen und haben, wie immer, viele Bilder gemacht. 
 
-![](/assets/uploads/F1E975B3-8B5C-4EFB-B34A-217F0598058D.jpeg)![](/assets/uploads/606048E5-0D01-441A-A1EC-0CA5B7932FD9.jpeg)![](/assets/uploads/85474DB0-9571-454C-B003-7446B8350AB0_1_105_c.jpeg)![](/assets/uploads/FF294CE4-C64D-4F3F-9AB5-78BD18CE40CA_1_105_c.jpeg)![](/assets/uploads/6260C994-B83E-42FA-8C0B-0DACB23ED99A_1_105_c.jpeg)![](/assets/uploads/C8B7FE50-1DD2-4483-8CF7-380C70B53FE8_1_105_c.jpeg)
+![](/assets/uploads/778647B5-505C-4F3E-B2B8-BF6BF8FB63BB_1_105_c.jpeg)![](/assets/uploads/FF294CE4-C64D-4F3F-9AB5-78BD18CE40CA_1_105_c.jpeg)![](/assets/uploads/6260C994-B83E-42FA-8C0B-0DACB23ED99A_1_105_c.jpeg)![](/assets/uploads/79F7C5B8-DC98-4805-995B-7FB0572498DC_1_105_c.jpeg)![](/assets/uploads/5C292F60-2DE3-476C-9613-562D46C1F799_1_105_c.jpeg)![](/assets/uploads/85474DB0-9571-454C-B003-7446B8350AB0_1_105_c.jpeg)
 
 Ein Tag darauf sind 50 Teilnehmer des Camps (inklusive wir sechs Deutschen) losgefahren zum 5-tägigen Outreach nach Bantayan. Das ist eine Insel neben Cebu. Wir sind ca. sieben Stunden dahin gefahren teils mit dem Auto, teils mit der Fähre. Dort haben wir wie in Cebu City vacation DVBS für einige Kinder vor Ort gemacht. 
 
@@ -66,6 +68,6 @@ Für uns deutschen Freiwilligen war es teilweise schwierig, weil wir die einzige
 
 Nach dem Camp haben wir erstmal fünf tage frei, um uns auszukurieren. Wir sind alle ein bisschen angeschlagen und können die freien tage echt gut gebrauchen. 
 
-Jetzt brechen auch die letzten zwei Monate an… Die zeit verfliegt so schnell….
+Jetzt brechen auch die letzten zwei Monate an… Die zeit verfliegt so schnell….![](/assets/uploads/DF03023C-805F-468A-8885-D967C21374C1.jpeg)![](/assets/uploads/4D557665-CBA8-4251-8D2C-A2E2B7442BF4.jpeg)![](/assets/uploads/064F68D9-E730-44D1-89AA-59D160D5E690.jpeg)![](/assets/uploads/0346F4B0-C8C3-4B8B-9CE0-77F9F14DA58A_1_105_c.jpeg)
 
-![](/assets/uploads/DF03023C-805F-468A-8885-D967C21374C1.jpeg)![](/assets/uploads/C721248B-8FC9-4C79-8E43-16F39782B429_1_105_c.jpeg)![](/assets/uploads/4D557665-CBA8-4251-8D2C-A2E2B7442BF4.jpeg)![](/assets/uploads/3ED8AC62-F242-4EDD-B296-C5DB09779648_1_105_c.jpeg)
+![](/assets/uploads/C721248B-8FC9-4C79-8E43-16F39782B429_1_105_c.jpeg)

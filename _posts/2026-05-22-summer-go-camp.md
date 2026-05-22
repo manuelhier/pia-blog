@@ -20,7 +20,6 @@ Nachmittags sind einige Mitarbeiter und älteren Teilnehmer in die Armenviertel 
 
 Ein Nachmittag haben Juliane und ich mit den einigen Teilnehmerkinder eine Wand auf dem Gelände von Christ for Asia bemalt (siehe Foto).  Obwohl die Motivation zum Ende hin stark abgenommen hat und wir zum Schluss nur noch zu dritt gemalt haben bin ich sehr beeindruckt, von dem bisherigen Ergebnis (sind nicht fertig geworden, werden wir hoffentlich nächste Woche mit den Heimkindern fertig malen). Es hat auch super spaß gemacht!![](/assets/uploads/1049FA03-D6B2-4CCD-93CE-9D62BA462D2C_1_105_c.jpeg)![](/assets/uploads/4A3C99A5-60C4-4A0B-A77A-87551D627FEB_1_105_c.jpeg)
 
-
 Sehr prägend war auch der tägliche Lobpreis. Man merkt sehr stark, dass die Philippinen eine tanzgeprägte Kultur ist. Es ist so schön zu sehen, wie jeder anders Gott preist und wie lebendig der Worship ist. Manche haben zusammen getanzt, andere haben alleine Gott angepriesen, wieder andere haben für einander gebetet. Auch die Mischung aus ruhigem und lautem Worship war super.
 
 Die Band bestand aus ehemaligen Heimkindern und Mitarbeitern und man hat sehr gespürt wie viel Spaß alle währenddessen hatten.   
